@@ -1,4 +1,4 @@
-Mental Health & Wellness AI Chatbot
+###Mental Health & Wellness AI Chatbot
 A context-aware AI chatbot exploring ethical guardrails and responsible AI design in mental health support applications.
 
 Disclaimer
